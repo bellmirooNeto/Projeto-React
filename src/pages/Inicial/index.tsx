@@ -18,6 +18,7 @@ function Inicial(){
               <li className="menu__list-item"><a className="menu__link" href="#">Contatos</a></li>
           </ul>
       </div> 
+      
    </nav>     
      
 </div>
