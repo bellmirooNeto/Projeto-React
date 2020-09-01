@@ -1,0 +1,33 @@
+.AppCarousel {
+  text-align: center; 
+}
+ img{
+  margin-left : auto;
+   margin-right: auto;
+ }
+.slides .slick-prev,
+.slides .slick-next {
+  position: absolute;
+  top: 50%;
+  z-index: 1;
+}
+
+.slides {
+  text-align: center;
+  position: center;
+}
+
+.slides .slick-prev,
+.slides .slick-next {
+  position: absolute;
+  top: 50%;
+  z-index:1;
+}
+
+.slides .slick-prev {
+  left: 5%;
+}
+
+.slides .slick-next {
+  right: 5%;
+}
